@@ -8,7 +8,7 @@
 		"Bayrak": "https://g.top4top.io/p_1681j7vfw1.png",
 		"Aciklama": "EGYPT",
 		"KanalLogo": "https://www.cne-eg.com/uploads/logos/20183173613643.png",
-		"ServerUrl": "http://78.47.194.71/upload/images/logoA01.m3u8",
+		"ServerUrl": "http://116.202.24.230/upload/images/logoA01.m3u8",
 		"PlayerType": "defaultplayer",
 		"PlayerControl": "false",
 		"OpenType": "direct",
