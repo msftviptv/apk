@@ -1,5 +1,5 @@
 {"Ulke":[
-  {"ulke_id":17, "country":"Egypt", "ulke_flag":"https://g.top4top.io/p_1681j7vfw1.png", "ulke":"Egypt", "ulke_url":"https://raw.githubusercontent.com/msftviptv/apk/master/TV/egy.php", "country_foto":"https://g.top4top.io/p_1681j7vfw1.png"}, 
+  {"ulke_id":17, "country":"Egypt", "ulke_flag":"https://g.top4top.io/p_1681j7vfw1.png", "ulke":"Egypt", "ulke_url":"https://raw.githubusercontent.com/msftviptv/apk/master/TV/egy.txt", "country_foto":"https://g.top4top.io/p_1681j7vfw1.png"}, 
  {"ulke_id":6, "country":"Turkey", "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/turkey.png", "ulke":"Turkey", "ulke_url":"http://213.128.89.165/TEMEL/SowaProGuide/turkey/turkey_cat2.php", "country_foto":"http://213.128.89.165/Main/Flag/owl_bayrak/turkey.png"},
   {"ulke_id":9, "country":"Russia", "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/russia.png", "ulke":"Russia", "ulke_url":"http://213.128.89.165/TEMEL/SowaProGuide/russia/russia_cat1.php", "country_foto":"http://213.128.89.165/Main/Flag/owl_bayrak/russia.png"},
    {"ulke_id":7, "country":"Azerbaijan", "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/azeri.png", "ulke":"Azerbaijan", "ulke_url":"http://213.128.89.165/TEMEL/SowaProGuide/azeri/azeri_cat1.php", "country_foto":"http://213.128.89.165/Main/Flag/owl_bayrak/azeri.png"}, 
