@@ -15,7 +15,7 @@
 		"PatternText": ",,,,,,,,son",
 		"StaticText": ",,,,,son",
 		"LinkIndex": "",
-		"Headers": "Ehttp://yariga.tv/?A01",
+		"Headers": "http://yariga.tv/?A01",
 		"UserAgent": "",
 		"SonGuncellemeTarihi": "19.10.2016 13:30:59",
 		"Favori": 0,
