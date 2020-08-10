@@ -30,7 +30,7 @@
 		"ServerUrl": "http://116.202.24.230/upload/images/logoA01.m3u8",
 		"PlayerType": "exoplayer",
 		"PlayerControl": "false",
-		"OpenType": "direct",
+		"OpenType": "graphm3u8",
 		"PatternText": ",,,,,,,,son",
 		"StaticText": ",,,,,son",
 		"LinkIndex": "",
