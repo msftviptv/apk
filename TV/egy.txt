@@ -28,7 +28,7 @@
 		"Aciklama": "EGYPT",
 		"KanalLogo": "http://213.128.89.165/Main/Logo/end/aljazere.png",
 		"ServerUrl": "http://116.202.24.230/upload/images/logoA01.m3u8",
-		"PlayerType": "defaultplayer",
+		"PlayerType": "exoplayer",
 		"PlayerControl": "false",
 		"OpenType": "direct",
 		"PatternText": ",,,,,,,,son",
