@@ -22,8 +22,7 @@
 		"Secim": ""
 		},{
 		"KanalNo": "17002",
-		"KanalAdi": "beINSports 2
-",
+		"KanalAdi": "beINSports",
 		"KategoriNo": "17",
 		"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/egypt.png",
 		"Aciklama": "EGYPT",
