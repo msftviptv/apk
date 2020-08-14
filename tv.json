@@ -5,7 +5,7 @@
 	{
 		"previewURL": "https://d.top4top.io/p_1675fi2y81.png",
 		"user": "matches",
-		"pageURL": "http://msftv.atwebpages.com/data/tv/matches.json",
+		"pageURL": "https://raw.githubusercontent.com/msftviptv/apk/master/tv/matches.json",
 		"group": "matches",
 		"adcount": 0
 		},
