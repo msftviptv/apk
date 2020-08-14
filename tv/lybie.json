@@ -1,0 +1,46 @@
+{
+    "hits": [
+        {
+            "previewURL": "http://jascotvstreaming.com/uploads/topics/15738851325918.png",
+            "user": "libyaAِlan",
+            "pageURL": "rtmp://82.212.74.5:1935/live/7627<=>3<=>Mozilla/5.0",
+            "group": "Libya"
+        },
+        {
+            "previewURL": "http://jascotvstreaming.com/uploads/topics/15575593798401.jpg",
+            "user": "Allibiya",
+            "pageURL": "http://82.212.74.2:8000/live/7321<=>1<=>Mozilla/5.0",
+            "group": "Libya"
+        },
+        {
+            "previewURL": "http://i-sat.tv/images/music%20hanen_1_1.png",
+            "user": "aljamahiria",
+            "pageURL": "http://streaming.i-sat.tv:1935/livestream/akh/chunklist_w650880674.m3u8<=>0<=>Mozilla/5.0",
+            "group": "Libya"
+        },
+        {
+            "previewURL": "https://libyaschannel.com/wp-content/uploads/2016/07/logo.png",
+            "user": "Libyanews",
+            "pageURL": "http://starmena.ercdn.net/libyaschannel/libyaschannel.m3u8<=>0<=>Mozilla/5.0",
+            "group": "Libya"
+        },
+        {
+            "previewURL": "http://libyaalhadath.net/wp-content/uploads/2018/05/logo-bart_00133.jpg",
+            "user": "ليبياالحدث",
+            "pageURL": "http://starmena.ercdn.net/libya-alhadath/libya-alhadath_480p.m3u8<=>0<=>Mozilla/5.0",
+            "group": "Libya"
+        },
+        {
+            "previewURL": "http://i-sat.tv/images/LiybaAlwateen.png",
+            "user": "libyaalwatan",
+            "pageURL": "http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8<=>0<=>Mozilla/5.0",
+            "group": "Libya"
+        },
+        {
+            "previewURL": "https://pngimage.net/wp-content/uploads/2018/06/no-logo-png-4.png",
+            "user": "libya218",
+            "pageURL": "https://stream.218tv.net/libya218TV/index.m3u8<=>0<=>Mozilla/5.0https://stream.218tv.net/libya218TV/embed.html",
+            "group": "Libya"
+        }
+    ]
+}
