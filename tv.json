@@ -1,5 +1,3 @@
-{..}
-JSON formatted text
 {
     "hits": [
         {
@@ -228,4 +226,4 @@ JSON formatted text
         }
     ]
 }
-Parse JSONLoad a file
+
