@@ -1,0 +1,83 @@
+{
+    "hits": [
+    {
+    "previewURL": "https://supersport.azureedge.net/web-assets/channels/SS1.png",
+    "user": "SuperSport 1",
+    "pageURL": "http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=ss1<=>1<=>Mozilla/5.0",
+    "group": "afriqa",
+    "adcount": 2
+    },
+    {
+    "previewURL": "https://supersport.azureedge.net/web-assets/channels/SS2.png",
+    "user": "SuperSport 2",
+    "pageURL": "http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=ss2<=>1<=>Mozilla/5.0",
+    "group": "afriqa"
+    },
+    {
+    "previewURL": "https://supersport.azureedge.net/web-assets/channels/SS3.png",
+    "user": "SuperSport 3",
+    "pageURL": "http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=ss3<=>1<=>Mozilla/5.0",
+    "group": "afriqa"
+    },
+    {
+    "previewURL": "https://supersport.azureedge.net/web-assets/channels/SS4.png",
+    "user": "SuperSport 4",
+    "pageURL": "http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=ss4<=>1<=>Mozilla/5.0",
+    "group": "afriqa"
+    },
+    {
+    "previewURL": "https://supersport.azureedge.net/web-assets/channels/SS5.png",
+    "user": "SuperSport 5",
+    "pageURL": "http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=ss5<=>1<=>Mozilla/5.0",
+    "group": "afriqa"
+    },
+    {
+    "previewURL": "https://supersport.azureedge.net/web-assets/channels/SS6.png",
+    "user": "SuperSport 6",
+    "pageURL": "http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=ss6<=>1<=>Mozilla/5.0",
+    "group": "afriqa"
+    },
+    {
+    "previewURL": "https://supersport.azureedge.net/web-assets/channels/SS7.png",
+    "user": "SuperSport 7",
+    "pageURL": "http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=ss7<=>1<=>Mozilla/5.1",
+    "group": "afriqa"
+    },
+    {
+    "previewURL": "https://supersport.azureedge.net/web-assets/channels/SS8.png",
+    "user": "SuperSport 8",
+    "pageURL": "http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=ss8<=>1<=>Mozilla/5.0",
+    "group": "afriqa"
+    },
+    {
+    "previewURL": "https://supersport.azureedge.net/web-assets/channels/SS9.png",
+    "user": "SuperSport 9",
+    "pageURL": "http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=ss9<=>1<=>Mozilla/5.0",
+    "group": "afriqa"
+    },
+    {
+    "previewURL": "https://supersport.azureedge.net/web-assets/channels/SS10.png",
+    "user": "SuperSport 10",
+    "pageURL": "http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=ss10<=>1<=>Mozilla/5.0",
+    "group": "afriqa"
+    },
+    {
+    "previewURL": "https://supersport.azureedge.net/web-assets/channels/SS11.png",
+    "user": "SuperSport 11",
+    "pageURL": "http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=ss11<=>1<=>Mozilla/5.0",
+    "group": "afriqa"
+    },
+    {
+    "previewURL": "https://supersport.azureedge.net/web-assets/channels/SS12.png",
+    "user": " SuperSport 12",
+    "pageURL": "http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=ss12<=>1<=>Mozilla/5.0",
+    "group": "afriqa"
+    },
+    {
+    "previewURL": "https://supersport.azureedge.net/web-assets/channels/SSB.png",
+    "user": " Supersport Blitz",
+    "pageURL": "http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=ssb<=>1<=>Mozilla/5.0",
+    "group": "afriqa"
+    }
+    ]
+    }
