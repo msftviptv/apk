@@ -1,0 +1,65 @@
+{
+    "hits": [
+        {
+            "previewURL": "https://img.new.livestream.com/events/0000000000742864/052e6dfe-a3a9-4326-898a-e55579671868_640x360.jpg",
+            "user": "AMANTV",
+            "pageURL": "https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8<=>0<=>Mozilla/5.0",
+            "group": "Jordan",
+            "adcount": 2
+        },
+        {
+            "previewURL": "http://musawachannel.com/sites/all/themes/musawa/images/logo.png",
+            "user": "musawa",
+            "pageURL": "http://htvpalsat.mada.ps:8888/musawa/mono.m3u8<=>0<=>Mozilla/5.0",
+            "group": "Jordan"
+        },
+        {
+            "previewURL": "https://jascotvstreaming.com/uploads/topics/15468760181958.png",
+            "user": "7stars",
+            "pageURL": "http://82.212.74.3:8000/live/7506<=>1<=>Mozilla/5.0",
+            "group": "Jordan"
+        },
+        {
+            "previewURL": "http://jascotvstreaming.com/uploads/topics/15189472896950.png",
+            "user": "JosatTv",
+            "pageURL": "http://82.212.74.98:8000/live/7814<=>1<=>Mozilla/5.0",
+            "group": "Jordan"
+        },
+        {
+            "previewURL": "http://www.qassimy.com/channel-tv-live/files/image/jordan_tv_arabic_live_online_free_arabic_channel.jpeg",
+            "user": "JordanTv",
+            "pageURL": "http://stream.joinvisions.net:1935/jorlive/jrtv/playlist.m3u8?DVR<=>0<=>Mozilla/5.0",
+            "group": "Jordan"
+        },
+        {
+            "previewURL": "http://webtvonlive.com/wp-content/uploads/Jordan-Sport-webtvonlive-com.jpg",
+            "user": "Jordansport",
+            "pageURL": "http://stream.joinvisions.net:1935/jorlive/sport/playlist.m3u8?DVR<=>0<=>Mozilla/5.0",
+            "group": "Jordan"
+        },
+        {
+            "previewURL": "https://images-na.ssl-images-amazon.com/images/I/81DTabPpEgL._SY355_.png",
+            "user": "RoyaHD",
+            "pageURL": "https://roya-live.ercdn.net/roya/roya_1080p.m3u8<=>0<=>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36<=>Referer<=>https://roya.tv/live-stream",
+            "group": "Jordan"
+        },
+        {
+            "previewURL": "https://images-na.ssl-images-amazon.com/images/I/81DTabPpEgL._SY355_.png",
+            "user": "RoyaSD",
+            "pageURL": "https://roya-live.ercdn.net/roya/roya_720p.m3u8<=>0<=>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36<=>Referer<=>https://roya.tv/live-stream",
+            "group": "Jordan"
+        },
+        {
+            "previewURL": "http://i-sat.tv/images/jordan%20amen_1.png",
+            "user": "amn",
+            "pageURL": "http://streaming.i-sat.tv:1935/livestream/amn/playlist.m3u8<=>0<=>Mozilla/5.0",
+            "group": "Jordan"
+        },
+        {
+            "previewURL": "https://pngimage.net/wp-content/uploads/2018/06/no-logo-png-4.png",
+            "user": "kife",
+            "pageURL": "http://82.212.74.2:8000/live/7311<=>1<=>Mozilla/5.0",
+            "group": "Jordan"
+        }
+    ]
+}
