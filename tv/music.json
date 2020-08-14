@@ -1,0 +1,52 @@
+{
+    "hits": [
+        {
+            "previewURL": "https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png?v=3",
+            "user": "rotanakhalejeh",
+            "pageURL": "https://rotana.hibridmedia.com/rotana/khaleejiya_dabr/rotana/khaleejiya_720p/chunks.m3u8<=>0<=>Mozilla/5.0",
+            "group": "Music"
+        },
+        {
+            "previewURL": "https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png",
+            "user": "Dejlah tararb",
+            "pageURL": "https://ghaasiflu.online/tarab/index.m3u8<=>0<=>Mozilla/5.0",
+            "group": "Music"
+        },
+        {
+            "previewURL": "http://jascotvstreaming.com/uploads/topics/15602802937098.png",
+            "user": "AOneMusic",
+            "pageURL": "http://82.212.74.99:8000/live/8111<=>1<=>Mozilla/5.0",
+            "group": "Music"
+        },
+        {
+            "previewURL": "http://jascotvstreaming.com/uploads/topics/15602802937098.png",
+            "user": "AOneMusicBkp",
+            "pageURL": "rtmp://82.212.74.99:8000/live/8111<=>3<=>Mozilla/5.0",
+            "group": "Music"
+        },
+        {
+            "previewURL": "https://aghaniaghani.com/images/logo.png",
+            "user": "Aghani",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/day/eds/mvc.php?ch=5c769d8b8ea1559&ch2=5eaefadf20006<=>0<=>Mozilla/5.0",
+            "group": "Music"
+        },
+        {
+            "previewURL": "https://aghaniaghani.com/images/logo.png",
+            "user": "Aghanibkp",
+            "pageURL": "https://svs.itworkscdn.net/aghanilive/aghanilive/chunks.m3u8<=>0<=>Mozilla/5.0",
+            "group": "Music"
+        },
+        {
+            "previewURL": "https://pbs.twimg.com/profile_images/965645051366985729/pGY7OEMh_400x400.jpg",
+            "user": "one|",
+            "pageURL": "http://ssitv.ddns.net:9075/channel1/tracks-v3a1/mono.m3u8?token=wlan%3A08%3A00%3A27%3A64%3AD7%3A16<=>0<=>watchlb/wlan:08:00:27:64:D7:16/4db66eb2-f697-38db-a62f-d0039fa5046a",
+            "group": "Music"
+        },
+        {
+            "previewURL": "https://ik.imagekit.io/ulangotv/image/upload/3780289_logo_nogoum_fm_tv.png",
+            "user": "NogoumFM",
+            "pageURL": "https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8<=>0<=>Mozilla/5.0",
+            "group": "Music"
+        }
+    ]
+}
