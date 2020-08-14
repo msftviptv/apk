@@ -1,0 +1,167 @@
+{
+    "hits": [
+        {
+            "previewURL": "https://cdn.sat.tv/wp-content/uploads/2017/04/EnnaharTV.png",
+            "user": "EnnaharTV",
+            "pageURL": "http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV/playlist.m3u8<=>0<=>Mozilla/5.0",
+            "group": "ALGERIA",
+            "adcount": 2
+        },
+        {
+            "previewURL": "https://i.ytimg.com/vi/JlKzJDoEJE8/hqdefault.jpg",
+            "user": "Awras tv",
+            "pageURL": "https://api.new.livestream.com/accounts/7861901/events/6247367/broadcasts/205578148.secure.m3u8<=>0<=>Mozilla/5.0",
+            "group": "ALGERIA"
+        },
+        {
+            "previewURL": "https://i.ytimg.com/vi/JlKzJDoEJE8/hqdefault.jpg",
+            "user": "Awras tv",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/ma/almagharbia.php<=>0<=>Mozilla/5.0",
+            "group": "ALGERIA"
+        },
+        {
+            "previewURL": "http://iptv-planet.com/images/a3.jpg",
+            "user": "A3",
+            "pageURL": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/ThalithaA3.m3u8<=>0<=>Mozilla/5.0",
+            "group": "ALGERIA"
+        },
+        {
+            "previewURL": "http://iptv-planet.com/images/a3.jpg",
+            "user": "algeria-3-",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/planet/planet1.php?ch=Hi_TVA3<=>0<=>Mozilla/5.0<=>Referer<=>iptv-planet.com",
+            "group": "ALGERIA"
+        },
+        {
+            "previewURL": "http://hta.backoffice.easybroadcast.fr/channel/9_picture.png",
+            "user": "ENTV",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/alg/alg.php?ch=ENTV<=>0<=>ReactNativeVideo/1.15 Linux;Android 5.1.1 ExoPlayerLib/2.9.3",
+            "group": "ALGERIA"
+        },
+        {
+            "previewURL": "http://hta.backoffice.easybroadcast.fr/channel/4_picture.png",
+            "user": "Canal Algérie",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/alg/alg.php?ch=CanalAlgerie<=>0<=>ReactNativeVideo/1.15 Linux;Android 5.1.1 ExoPlayerLib/2.9.3",
+            "group": "ALGERIA"
+        },
+        {
+            "previewURL": "http://hta.backoffice.easybroadcast.fr/channel/1_picture.png",
+            "user": "Algérie 3",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/alg/alg.php?ch=A3<=>0<=>ReactNativeVideo/1.15 Linux;Android 5.1.1 ExoPlayerLib/2.9.3",
+            "group": "ALGERIA"
+        },
+        {
+            "previewURL": "http://hta.backoffice.easybroadcast.fr/channel/124_picture.png",
+            "user": "Algerie TV 4",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/alg/alg.php?ch=TV4<=>0<=>ReactNativeVideo/1.15 Linux;Android 5.1.1 ExoPlayerLib/2.9.3",
+            "group": "ALGERIA"
+        },
+        {
+            "previewURL": "http://hta.backoffice.easybroadcast.fr/channel/73_picture.png",
+            "user": "Algerie TV 5",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/alg/alg.php?ch=TV5<=>0<=>ReactNativeVideo/1.15 Linux;Android 5.1.1 ExoPlayerLib/2.9.3",
+            "group": "ALGERIA"
+        },
+        {
+            "previewURL": "http://hta.backoffice.easybroadcast.fr/channel/137_picture.png",
+            "user": "ALGERIE TV 6",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/alg/alg.php?ch=TV6<=>0<=>ReactNativeVideo/1.15 Linux;Android 5.1.1 ExoPlayerLib/2.9.3",
+            "group": "ALGERIA"
+        },
+        {
+            "previewURL": "http://hta.backoffice.easybroadcast.fr/channel/6_picture.png",
+            "user": "Echorouk TV",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/alg/alg.php?ch=Echorouk_TV<=>0<=>ReactNativeVideo/1.15 Linux;Android 5.1.1 ExoPlayerLib/2.9.3",
+            "group": "ALGERIA"
+        },
+        {
+            "previewURL": "http://hta.backoffice.easybroadcast.fr/channel/5_picture.png",
+            "user": "Dzaïr TV",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/alg/alg.php?ch=DzairTV_abr<=>0<=>ReactNativeVideo/1.15 Linux;Android 5.1.1 ExoPlayerLib/2.9.3",
+            "group": "ALGERIA"
+        },
+        {
+            "previewURL": "http://hta.backoffice.easybroadcast.fr/channel/3_picture.png",
+            "user": "Beur TV",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/alg/alg.php?ch=Beur_TV<=>0<=>ReactNativeVideo/1.15 Linux;Android 5.1.1 ExoPlayerLib/2.9.3",
+            "group": "ALGERIA"
+        },
+        {
+            "previewURL": "http://hta.backoffice.easybroadcast.fr/channel/123_picture.png",
+            "user": "BAHIA TV",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/alg/alg.php?ch=BAHIA_TV<=>0<=>ReactNativeVideo/1.15 Linux;Android 5.1.1 ExoPlayerLib/2.9.3",
+            "group": "ALGERIA"
+        },
+        {
+            "previewURL": "http://hta.backoffice.easybroadcast.fr/channel/126_picture.png",
+            "user": "EL BILAD",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/alg/alg.php?ch=EL_BILAD<=>0<=>ReactNativeVideo/1.15 Linux;Android 5.1.1 ExoPlayerLib/2.9.3",
+            "group": "ALGERIA"
+        },
+        {
+            "previewURL": "http://hta.backoffice.easybroadcast.fr/channel/127_picture.png",
+            "user": "NUMIDIA",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/alg/alg.php?ch=NUMIDIA<=>0<=>ReactNativeVideo/1.15 Linux;Android 5.1.1 ExoPlayerLib/2.9.3",
+            "group": "ALGERIA"
+        },
+        {
+            "previewURL": "http://hta.backoffice.easybroadcast.fr/channel/7_picture.png",
+            "user": "El Djazairia One",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/alg/alg.php?ch=EL_DJAZAIRIA_TV<=>0<=>ReactNativeVideo/1.15 Linux;Android 5.1.1 ExoPlayerLib/2.9.3",
+            "group": "ALGERIA"
+        },
+        {
+            "previewURL": "http://hta.backoffice.easybroadcast.fr/channel/8_picture.png",
+            "user": "Ennahar TV",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/alg/alg.php?ch=ennahartv_abr<=>0<=>ReactNativeVideo/1.15 Linux;Android 5.1.1 ExoPlayerLib/2.9.3",
+            "group": "ALGERIA"
+        },
+        {
+            "previewURL": "http://hta.backoffice.easybroadcast.fr/channel/15_picture.png",
+            "user": "El Heddaf TV",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/alg/alg.php?ch=EL_HEDDAF_TV<=>0<=>ReactNativeVideo/1.15 Linux;Android 5.1.1 ExoPlayerLib/2.9.3",
+            "group": "ALGERIA"
+        },
+        {
+            "previewURL": "http://hta.backoffice.easybroadcast.fr/channel/125_picture.jpeg",
+            "user": "El Fhama TV",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/alg/alg.php?ch=CBC_BENNA<=>0<=>ReactNativeVideo/1.15 Linux;Android 5.1.1 ExoPlayerLib/2.9.3",
+            "group": "ALGERIA"
+        },
+        {
+            "previewURL": "http://hta.backoffice.easybroadcast.fr/channel/10_picture.png",
+            "user": "Samira TV",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/alg/alg.php?ch=SAMIRA_TV<=>0<=>ReactNativeVideo/1.15 Linux;Android 5.1.1 ExoPlayerLib/2.9.3",
+            "group": "ALGERIA"
+        },
+        {
+            "previewURL": "http://hta.backoffice.easybroadcast.fr/channel/129_picture.png",
+            "user": "EL HAYAT TV",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/alg/alg.php?ch=EL_HAYAT_TV<=>0<=>ReactNativeVideo/1.15 Linux;Android 5.1.1 ExoPlayerLib/2.9.3",
+            "group": "ALGERIA"
+        },
+        {
+            "previewURL": "http://hta.backoffice.easybroadcast.fr/channel/18_picture.png",
+            "user": "Echorouk NEWS",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/alg/alg.php?ch=Echorouk_news<=>0<=>ReactNativeVideo/1.15 Linux;Android 5.1.1 ExoPlayerLib/2.9.3",
+            "group": "ALGERIA"
+        },
+        {
+            "previewURL": "http://hta.backoffice.easybroadcast.fr/channel/130_picture.png",
+            "user": "EL FADJR TV",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/alg/alg.php?ch=EL_FADJR_TV<=>0<=>ReactNativeVideo/1.15 Linux;Android 5.1.1 ExoPlayerLib/2.9.3",
+            "group": "ALGERIA"
+        },
+        {
+            "previewURL": "http://hta.backoffice.easybroadcast.fr/channel/132_picture.png",
+            "user": "ALANIS TV",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/alg/alg.php?ch=CBC_BENNA<=>0<=>ReactNativeVideo/1.15 Linux;Android 5.1.1 ExoPlayerLib/2.9.3",
+            "group": "ALGERIA"
+        },
+        {
+            "previewURL": "http://hta.backoffice.easybroadcast.fr/channel/131_picture.jpeg",
+            "user": "CHAMS TV",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/alg/alg.php?ch=CHAMS_TV<=>0<=>ReactNativeVideo/1.15 Linux;Android 5.1.1 ExoPlayerLib/2.9.3",
+            "group": "ALGERIA"
+        }
+    ]
+}
