@@ -1,0 +1,569 @@
+{
+    "hits": [
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
+            "user": "Campus-TV-Magdeburg +",
+            "pageURL": "http://62.113.210.250/medienasa-live/ok-wernigerode_high/chunklist_w937425968.m3u8?bitrate=800<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.197.29.78",
+            "group": "Germany",
+            "adcount": 4
+        },
+        {
+            "previewURL": "http://static.filmon.com/couch/channels/2756/extra_big_logo.png\"",
+            "user": "KIKA",
+            "pageURL": "https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/index_1992_av-p.m3u8?sd=10&rebase=on<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.197.29.78",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://static.filmon.com/couch/channels/415/extra_big_logo.png\"",
+            "user": "Tagesschau 24",
+            "pageURL": "http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://images.live-stream.tv/picons/ard.png\"",
+            "user": "Daserste",
+            "pageURL": "https://mcdn.daserste.de/daserste/de/master.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://telebasel.ch/wp-content/themes/telebasel-theme/img/B-1.svg\"",
+            "user": "Telbasel",
+            "pageURL": "https://cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/playlist.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://images.live-stream.tv/picons/ard.png\"",
+            "user": "Daserste Geo",
+            "pageURL": "https://daserstehdut-lh.akamaihd.net/i/daserstehd_ut_de@629193/master.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.197.29.78",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://eotv.de/wp-content/uploads/2015/12/Cranberry-Logo.png\"",
+            "user": "EOTV",
+            "pageURL": "https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/playlist.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://images.live-stream.tv/picons/wdr.png\"",
+            "user": "WDR",
+            "pageURL": "http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-p.m3u8?sd=10&rebase=on<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
+            "user": "TV Berlin",
+            "pageURL": "https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:7649-sbr/chunklist_b2658304.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://images.live-stream.tv/picons/br.png\"",
+            "user": "BR",
+            "pageURL": "https://br_hdslive-f.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-p.m3u8?sd=10&rebase=on<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko)",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://images.live-stream.tv/picons/br.png\"",
+            "user": "BR",
+            "pageURL": "http://livestreams.br.de/i/bfssued_Germany@119890/master.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.197.29.78",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
+            "user": "Sky Sport News HD",
+            "pageURL": "http://event_rtmp-lh.akamaihd.net/i/ssnhd_1@433299/master.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://static.filmon.com/couch/channels/2759/extra_big_logo.png\"",
+            "user": "ZDF",
+            "pageURL": "http://137.74.203.67:4780/zdf/playlist.m3u8<=>0<=>Mozilla/5.0",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://static.filmon.com/couch/channels/2759/extra_big_logo.png\"",
+            "user": "ZDF HD",
+            "pageURL": "https://zdf-hls-01.akamaized.net/hls/live/2002460/de/high/master.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.106.178.160",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://static.filmon.com/couch/channels/360/extra_big_logo.png\"",
+            "user": "ZDFneo",
+            "pageURL": "https://zdf-hls-02.akamaized.net/hls/live/2002461/de/high/master.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.197.29.78",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://images.live-stream.tv/picons/3sat.png\"",
+            "user": "3SAT",
+            "pageURL": "https://zdfhls18-i.akamaihd.net/hls/live/744751/dach/high/master.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.106.178.160",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://images.live-stream.tv/picons/3sat.png\"",
+            "user": "3SAT HD",
+            "pageURL": "https://zdfhls18-i.akamaihd.net/hls/live/744751/dach/3/3.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.197.29.78",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://static.filmon.com/couch/channels/424/extra_big_logo.png\"",
+            "user": "Phoenix",
+            "pageURL": "https://zdfhls19-i.akamaihd.net/hls/live/744752/de/high/master.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.197.29.78",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://static.filmon.com/couch/channels/424/extra_big_logo.png\"",
+            "user": "Phoenix HD",
+            "pageURL": "https://zdfhls19-i.akamaihd.net/hls/live/744752/de/3/3.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.197.29.78",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
+            "user": "ZDF INFOKANAL",
+            "pageURL": "https://zdfhls17-i.akamaihd.net/hls/live/744750/de/high/master.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.197.29.78",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
+            "user": "ZDF INFOKANAL HD",
+            "pageURL": "https://zdfhls17-i.akamaihd.net/hls/live/744750/de/4/4.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.197.29.78",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
+            "user": "ZDF KiKa",
+            "pageURL": "https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8?set-segment-duration=quality<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.197.29.78",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
+            "user": "ZDF KiKa HD",
+            "pageURL": "https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/index_3776_av-p.m3u8?sd=6&set-segment-duration=quality&rebase=on<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.197.29.78",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://images.live-stream.tv/picons/arte.png\"",
+            "user": "arte",
+            "pageURL": "http://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.197.29.78",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://images.live-stream.tv/picons/mdr.png\"",
+            "user": "MDR",
+            "pageURL": "https://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/master.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.197.29.78",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://images.live-stream.tv/picons/swr.png\"",
+            "user": "SWR",
+            "pageURL": "http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/index_3584_av-p.m3u8?sd=10&rebase=on<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.197.29.78",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
+            "user": "SR",
+            "pageURL": "http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8?sd=10&rebase=on<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.197.29.78",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://www.tv14.net/wp-content/uploads/2013/05/HR-Fernsehen-Logo.jpg\"",
+            "user": "HR",
+            "pageURL": "http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-b.m3u8?sd=10&rebase=on<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
+            "user": "ARD-alpha",
+            "pageURL": "http://livestreams.br.de/i/bralpha_Germany@119899/index_1216_av-p.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.197.29.78",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://www.presseportal.de/bild/79385-logo-servustv.jpg\"",
+            "user": "ServusTV",
+            "pageURL": "https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.197.29.78",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
+            "user": "one einsfestival",
+            "pageURL": "https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_7_av-p.m3u8?set-segment-duration=responsive<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.197.29.78",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
+            "user": "rbb HD",
+            "pageURL": "http://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_7_av-b.m3u8?sd=10&rebase=on<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.197.29.78",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
+            "user": "Sonnenklar TV HD",
+            "pageURL": "http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
+            "user": "DW",
+            "pageURL": "http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8?sd=10&rebase=on<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png\"",
+            "user": "ndr hamburg.md",
+            "pageURL": "https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png\"",
+            "user": "ndr fernsehen",
+            "pageURL": "https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png\"",
+            "user": "ndr meck pom.md",
+            "pageURL": "http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/master.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png\"",
+            "user": "ndr schlesw.md",
+            "pageURL": "https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png\"",
+            "user": "ndr niedersachsen.md",
+            "pageURL": "https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
+            "user": "BVN",
+            "pageURL": "https://dcunilive2-lh.akamaihd.net/i/dclive_1@103791/index_928_av-p.m3u8?sd=6&rebase=on<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DeluxeMusicHD.svg/220px-DeluxeMusicHD.svg.png",
+            "user": "Deluxe Music",
+            "pageURL": "http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://www.mytvplus.de/arbeitsdaten/png/LOGO%20MyTVplus%2002.png",
+            "user": "MyTVplus",
+            "pageURL": "rtmp://62.67.13.54/MyTVplus/mtvp_livestream_2.stream<=>3<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://www.hms-dev.com/images/logos/references/mdf1_rbw.png",
+            "user": "MDF.1",
+            "pageURL": "http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Isar_TV.png",
+            "user": "Isar TV",
+            "pageURL": "http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://pbs.twimg.com/profile_images/992395650334711808/kChW2jHW.jpg",
+            "user": "magentamusik",
+            "pageURL": "http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/magentamusik1_1/magentamusik1.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
+            "user": "Touring-Schweinfurt ",
+            "pageURL": "http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w751782099.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://4.bp.blogspot.com/-BAcecuCPkK4/VGjDw1zsTdI/AAAAAAAACeE/eSgTcT9nY7Y/s1600/123tv.jpg",
+            "user": "1-2-3 TV",
+            "pageURL": "http://123tv.cdn.ses-ps.com/index.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Alex_Offener_Kanal_Berlin_Logo.svg/2000px-Alex_Offener_Kanal_Berlin_Logo.svg.png",
+            "user": "ALEX Berlin",
+            "pageURL": "http://alex-stream.rosebud-media.de:80/live/smil:alexlivetv.smil/playlist.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Alex_Offener_Kanal_Berlin_Logo.svg/2000px-Alex_Offener_Kanal_Berlin_Logo.svg.png",
+            "user": "ALEX Berlin",
+            "pageURL": "https://alex-net.rosebud-media.de/bounce/alexlivetv20.smil/playlist.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Alex_Offener_Kanal_Berlin_Logo.svg/2000px-Alex_Offener_Kanal_Berlin_Logo.svg.png",
+            "user": "ALEX Berlin",
+            "pageURL": "http://alex-stream.rosebud-media.de:80/live/smil:alexlivetv.smil/playlist.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://www.radioszene.de/wp-content/uploads/2016/12/allgaeu-tv-logo-fb-min.png",
+            "user": "Allgau TV",
+            "pageURL": "http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/1200px-ARD_alpha.svg.png",
+            "user": "ARD-alpha",
+            "pageURL": "http://livestreams.br.de/i/bralpha_Germany@119899/index_3776_av-p.m3u8?sd=10&rebase=on<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.197.29.78",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://www.iptvdigital.com/images/ca-nal_live/22_ca-nal_live_28_ca-nal_live_baden_tv.png",
+            "user": "Baden TV (Opt-1)",
+            "pageURL": "http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://www.iptvdigital.com/images/ca-nal_live/22_ca-nal_live_28_ca-nal_live_baden_tv.png",
+            "user": "Baden TV (Opt-2)",
+            "pageURL": "https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blizztv.png",
+            "user": "Blizz TV",
+            "pageURL": "http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/index_500_av-p.m3u8?sd=10&rebase=on<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://images.live-stream.tv/picons/br.png",
+            "user": "BR Worldwide",
+            "pageURL": "https://br_hdslive-f.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-p.m3u8?sd=10&rebase=on<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.197.29.78",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://images.live-stream.tv/picons/br.png",
+            "user": "BR Germany",
+            "pageURL": "https://brlive-lh.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-p.m3u8?sd=10&rebase=on<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.197.29.78",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://images.live-stream.tv/picons/br.png",
+            "user": "BR Nord",
+            "pageURL": "https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_3776_av-p.m3u8?sd=4&set-segment-duration=responsive&rebase=on<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.197.29.78",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://images.live-stream.tv/picons/br.png",
+            "user": "BR Sued",
+            "pageURL": "https://brlive-lh.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-p.m3u8?sd=10&rebase=on<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) <=>X-Forwarded-For<=>91.197.29.78",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png",
+            "user": "Deutsche Welle (Opt-1)",
+            "pageURL": "http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_5_a-p.m3u8?sd=10&rebase=on<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png",
+            "user": "Deutsche Welle (Opt-2)",
+            "pageURL": "http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_5_a-p.m3u8?sd=10&rebase=on<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png",
+            "user": "Deutsche Welle (Opt-3)",
+            "pageURL": "http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_5_a-p.m3u8?sd=10&rebase=on<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://i65.tinypic.com/wixedx.jpg",
+            "user": "Deutsches Musik Fernsehen",
+            "pageURL": "http://tv.artcom-venture.de:1322/dmf/tv_720.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://cdn-radiotime-logos.tunein.com/s100563q.png",
+            "user": "Elbekanal",
+            "pageURL": "http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://oklivetv.com/wp-content/uploads/2015/06/B-ddZjpJ.png",
+            "user": "Family TV",
+            "pageURL": "http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/index_500_av-p.m3u8?sd=10&rebase=on<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png",
+            "user": "Franken Fernsehen",
+            "pageURL": "http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://www.broadbandtvnews.com/wp-content/uploads/2015/07/Folx-TV.jpg",
+            "user": "Folx TV",
+            "pageURL": "http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/H1-logo.svg/1200px-H1-logo.svg.png",
+            "user": "h1",
+            "pageURL": "http://livestream.htp.tv/livestream.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://programm.ard.de/files/265/2007/2778/28108.jpg",
+            "user": "HR Fernsehen",
+            "pageURL": "http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8?sd=10&rebase=on<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/intv.png",
+            "user": "INTV",
+            "pageURL": "https://586c13b083c0d.streamlock.net/ingolstadttv/ingolstadttv.stream_1/playlist.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://kulturmd.de/images/2018_KMDLogo.png",
+            "user": "kulturmdTV",
+            "pageURL": "http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://pbs.twimg.com/profile_images/580346447574503424/CxEQwneb.png",
+            "user": "Munchen TV",
+            "pageURL": "http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://s3.vefire.ru/l/en/NOA4.gif",
+            "user": "Noa 4 Norderstedt",
+            "pageURL": "http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://s3.vefire.ru/l/en/NOA4.gif",
+            "user": "Noa 4 Hamburg",
+            "pageURL": "http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://www.otv.de/wp-content/themes/otv/img/logo.png",
+            "user": "Oberpfalz TV",
+            "pageURL": "http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://ok54.de/wp-content/uploads/2012/01/ok54.png",
+            "user": "OK54",
+            "pageURL": "https://stream5.sehradar.de/ok54trier/livestream_480p/playlist.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png",
+            "user": "RFO",
+            "pageURL": "http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png",
+            "user": "Rheinmain TV",
+            "pageURL": "http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SWR3_Logo.svg/1200px-SWR3_Logo.svg.png",
+            "user": "SWR 3",
+            "pageURL": "http://swr3visual-lh.akamaihd.net/i/swr3visual_live@6410/index_3584_av-p.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://www.goldbachGermany.de/uploads/Sylt1-Logo-1024x449.png",
+            "user": "SYLT1",
+            "pageURL": "http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://i67.tinypic.com/1zcz428.jpg",
+            "user": "tagesschau24",
+            "pageURL": "http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_1152_av-p.m3u8?sd=10&rebase=on<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://www.tidenet.de/img/navi_tv_logo.png",
+            "user": "Tide TV",
+            "pageURL": "http://62.113.210.8/tide-rtplive/mp4:liveplayout.stream/playlist.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/6/68/TIROL_TV_Logo.jpg",
+            "user": "Tirol TV",
+            "pageURL": "http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://www.firstonetv.net/images/logos/de/TV38.png",
+            "user": "TV38",
+            "pageURL": "http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/TV_Mittelrhein_Logo.svg/2000px-TV_Mittelrhein_Logo.svg.png",
+            "user": "TV Mittelrhein",
+            "pageURL": "https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/playlist.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://www.tvaktuell.com/storage/thumbs/700x/r:1428659201/128312.jpg",
+            "user": "TVA Ostbayern",
+            "pageURL": "http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://www.teamkral.de/uploads/pics/tvo20logo_01.jpg",
+            "user": "TVO (Opt-1)",
+            "pageURL": "http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://www.teamkral.de/uploads/pics/tvo20logo_01.jpg",
+            "user": "TVO (Opt-2)",
+            "pageURL": "https://tvo.vedge.infomaniak.com/livecast/tvo/master.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://www.tvtouring.de/storage/thumbs/960x/r:1491827599/12164.jpg",
+            "user": "TV Touring Schweinfurt",
+            "pageURL": "http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/playlist.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://www.tvtouring.de/storage/thumbs/960x/r:1491827599/12164.jpg",
+            "user": "TV Touring Wurzburg",
+            "pageURL": "http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/fr/7/78/UnserDing_logo_2013_203x143.png",
+            "user": "Unserding",
+            "pageURL": "http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-b.m3u8?fluxustv.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/1200px-Wdr_fernsehen_logo_2016.svg.png",
+            "user": "WDR Fernsehen",
+            "pageURL": "http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-p.m3u8?sd=10&rebase=on<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "http://www.broadbandtvnews.com/wp-content/uploads/2014/05/Welt-der-Wunder.jpg",
+            "user": "Welt der Wunder",
+            "pageURL": "http://live.vidoo.de/live/weltderwunder/master.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png",
+            "user": "QVC",
+            "pageURL": "http://ios-stream.qvc.de/qvc.m3u8<=>0<=>Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) ",
+            "group": "Germany"
+        }
+    ]
+}
