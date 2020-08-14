@@ -1,0 +1,107 @@
+{
+    "hits": [
+        {
+            "previewURL": "http://www.shashatcom.sa/assets/themes/TriTheme/images/channels/ksa-colored.png",
+            "user": "KSA1",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/sa/ksa1.php<=>0<=>Mozilla/5.0",
+            "group": "KSA",
+            "adcount": 2
+        },
+        {
+            "previewURL": "https://quran.ksu.edu.sa/ayat/images/ayat_logo2.png",
+            "user": "KSAAyat",
+            "pageURL": "http://m.live.net.sa:1935/live/ayat/chunklist_w1037702575.m3u8<=>0<=>Mozilla/5.0",
+            "group": "KSA"
+        },
+        {
+            "previewURL": "https://www.giniko.com/logos/190x110/327.png",
+            "user": "KSAQuran",
+            "pageURL": "http://m.live.net.sa:1935/live/quran/chunklist_w150135122.m3u8<=>0<=>Mozilla/5.0",
+            "group": "KSA"
+        },
+        {
+            "previewURL": "https://www.giniko.com/logos/190x110/327.png",
+            "user": "KSAQuran2",
+            "pageURL": "https://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/index.m3u8<=>0<=>Android Google-TV",
+            "group": "KSA"
+        },
+        {
+            "previewURL": "https://www.giniko.com/logos/190x110/327.png",
+            "user": "KSAQuran",
+            "pageURL": "https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/chunklist_w570704929_b1364000.m3u8<=>0<=>Mozilla/5.0",
+            "group": "KSA"
+        },
+        {
+            "previewURL": "https://i2.wp.com/tvbd.live/wp-content/uploads/2017/11/saudi-sunnah-1.png?w=200",
+            "user": "Sunnah-1",
+            "pageURL": "https://bozztv.com/36bay2/gin/giniko_saudisunnah_900kb_36bay2/index.m3u8<=>0<=>Android Google-TV",
+            "group": "KSA"
+        },
+        {
+            "previewURL": "https://noble.tv/upload/2pcrcsd4e8sg040c40.jpg",
+            "user": "Noble TV-Quran",
+            "pageURL": "https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/playlist.m3u8<=>0<=>Mozilla/5.0",
+            "group": "KSA"
+        },
+        {
+            "previewURL": "https://i2.wp.com/tvbd.live/wp-content/uploads/2017/11/saudi-sunnah-1.png?w=200",
+            "user": "Sunnah-",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/mozlla.php?ch=UCraPI8sg-eiNzUrurxhKeEQ<=>0<=>Mozilla/5.0",
+            "group": "KSA"
+        },
+        {
+            "previewURL": "https://gulfbusiness.com/wp-content/uploads/2018/05/SBC-saudi-channel.jpg",
+            "user": "SBC",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/sa/sbc.php<=>0<=>Mozilla/5.0<=>Referer<=> https://www.shashatcom.sa/live/",
+            "group": "KSA"
+        },
+        {
+            "previewURL": "http://gui.cdniptv.com/images/536.png",
+            "user": "Ressalah",
+            "pageURL": "https://rotana.hibridmedia.com/rotana/risala_dabr/rotana/risala_720p/chunks.m3u8<=>0<=>Mozilla/5.0",
+            "group": "KSA"
+        },
+        {
+            "previewURL": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0019/4159/brand.gif",
+            "user": "IQRAA",
+            "pageURL": "http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b320000_t64MjQwcA==.m3u8<=>0<=>Mozilla/5.0",
+            "group": "KSA"
+        },
+        {
+            "previewURL": "https://pbs.twimg.com/profile_images/1226086785597558784/vTQIoHmJ_200x200.jpg",
+            "user": "Masdar",
+            "pageURL": "http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8<=>0<=>Mozilla/5.0",
+            "group": "KSA"
+        },
+        {
+            "previewURL": "http://jascotvstreaming.com/uploads/topics/15558802557869.jpg",
+            "user": "jaddah",
+            "pageURL": "rtmp://82.212.74.5:1935/live/7624<=>3<=>Mozilla/5.0",
+            "group": "KSA"
+        },
+        {
+            "previewURL": "http://jascotvstreaming.com/uploads/topics/15323468166894.png",
+            "user": "TV22",
+            "pageURL": "rtmp://82.212.74.99:1935/live/8817<=>3<=>Mozilla/5.0",
+            "group": "KSA"
+        },
+        {
+            "previewURL": "http://jascotvstreaming.com/uploads/topics/15190297818852.png",
+            "user": "kife",
+            "pageURL": "http://82.212.74.2:8000/live/7311<=>3<=>Mozilla/5.0",
+            "group": "KSA"
+        },
+        {
+            "previewURL": "https://jascotvstreaming.com/uploads/topics/15817550307058.png",
+            "user": "Entv",
+            "pageURL": "http://82.212.74.100:8000/live/8130<=>3<=>Mozilla/5.0",
+            "group": "KSA"
+        },
+        {
+            "previewURL": "https://jascotvstreaming.com/uploads/topics/15819734874770.jpg",
+            "user": "ALHOKAIRGroupTV",
+            "pageURL": "http://82.212.74.3:8000/live/7513<=>3<=>Mozilla/5.0",
+            "group": "KSA"
+        }
+    ]
+}
