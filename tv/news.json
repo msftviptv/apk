@@ -1,0 +1,125 @@
+{
+    "hits": [
+        {
+            "previewURL": "http://www.bbc.co.uk/news/special/2015/newsspec_11063/arabic_1024x576.png",
+            "user": "BBCARABICHD",
+            "pageURL": "https://vs-hls-ww-live.bbcfmt.hs.llnwd.net/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/pc_hd_abr_v2_hls.m3u8<=>0<=>Mozilla/5.0",
+            "group": "News",
+            "adcount": 2
+        },
+        {
+            "previewURL": "http://www.bbc.co.uk/news/special/2015/newsspec_11063/arabic_1024x576.png",
+            "user": "-BBCARABIC",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/mozlla.php?ch=UCelk6aHijZq-GJBBB9YpReA&p=93<=>0<=>Mozilla/5.0",
+            "group": "News"
+        },
+        {
+            "previewURL": "http://www.bbc.co.uk/news/special/2015/newsspec_11063/arabic_1024x576.png",
+            "user": "BBCARABICHD",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/mozlla.php?ch=UCelk6aHijZq-GJBBB9YpReA&p=94<=>0<=>Mozilla/5.0",
+            "group": "News"
+        },
+        {
+            "previewURL": "https://shahidstatic2.akamaized.net/mediaObject/slider/Ihsan/Thumbs-4/Al-Hadath-Thumb/original/Al-Hadath-Thumb.png",
+            "user": "Al-HadathVIP",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/sa/mbsh.php?ch=387288&ch2=Al-Hadath<=>0<=>Mozilla/5.0",
+            "group": "News"
+        },
+        {
+            "previewURL": "https://shahidstatic2.akamaized.net/mediaObject/slider/Ihsan/Thumbs-4/Al-Arabia-Thumb/original/Al-Arabia-Thumb.png",
+            "user": "Al-ArabiyaHDVIP",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/sa/mbsh.php?ch=387286&ch2=Al-Arabiya<=>0<=>Mozilla/5.0",
+            "group": "News"
+        },
+        {
+            "previewURL": "https://vid.alarabiya.net/images/2016/04/01/8edd67af-f66b-4eaf-9702-840a060869aa/8edd67af-f66b-4eaf-9702-840a060869aa_16x9_600x338.jpg",
+            "user": "Alarabiya",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/mozlla.php?ch=UCahpxixMCwoANAftn6IxkTg&p=94<=>0<=>Mozilla/5.0",
+            "group": "News"
+        },
+        {
+            "previewURL": "https://vid.alarabiya.net/images/2016/04/01/8edd67af-f66b-4eaf-9702-840a060869aa/8edd67af-f66b-4eaf-9702-840a060869aa_16x9_600x338.jpg",
+            "user": "alarabiya",
+            "pageURL": "http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8<=>0<=>Mozilla/5.0",
+            "group": "News"
+        },
+        {
+            "previewURL": "http://www.tunisvista.com/medias/AL-ARABIYA-AL-HADATH-LIVE.jpg",
+            "user": "AlarabiyaAlhadath",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/mozlla.php?ch=UCrj5BGAhtWxDfqbza9T9hqA&p=94<=>0<=>Mozilla/5.0",
+            "group": "News"
+        },
+        {
+            "previewURL": "http://www.tunisvista.com/medias/AL-ARABIYA-AL-HADATH-LIVE.jpg",
+            "user": "AlarabiyaAlhadath",
+            "pageURL": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8<=>0<=>Mozilla/5.0",
+            "group": "News"
+        },
+        {
+            "previewURL": "https://www.alghad.tv/wp-content/uploads/2018/10/AlGhad_2x-2-1-1.png",
+            "user": "Alghad",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/mozlla.php?ch=UCH4UNKBHSNwstan99YDoCVg&p=94<=>0<=>Mozilla/5.0",
+            "group": "News"
+        },
+        {
+            "previewURL": "http://www.twsool.com/wp-content/uploads/2016/09/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A.png",
+            "user": "alarabyHD",
+            "pageURL": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8<=>0<=>Mozilla/5.0",
+            "group": "News"
+        },
+        {
+            "previewURL": "https://www.aljazeera.net/content/ResponsiveRevamp/images/headerlogo.png",
+            "user": "aljazeeraNewsHD",
+            "pageURL": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8<=>0<=>Mozilla/5.0",
+            "group": "News"
+        },
+        {
+            "previewURL": "https://www.aljazeera.net/content/ResponsiveRevamp/images/headerlogo.png",
+            "user": "aljazeeraNewsbkp",
+            "pageURL": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8<=>0<=>Mozilla/5.0",
+            "group": "News"
+        },
+        {
+            "previewURL": "https://arabic.cgtn.com/resources/images/header/logo.png",
+            "user": "CGNTVالصينبالعربية",
+            "pageURL": "https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8<=>0<=>Mozilla/5.0",
+            "group": "News"
+        },
+        {
+            "previewURL": "https://ar.uatv.ua/wp-content/themes/ua-tv/img/logo.svg",
+            "user": "UaTVالاوكرانية",
+            "pageURL": "https://ua-tv.cdn-01.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8<=>0<=>Mozilla/5.0",
+            "group": "News"
+        },
+        {
+            "previewURL": "https://arabic.rt.com/static/blocks/logo/logo-og.png",
+            "user": "RTArabic",
+            "pageURL": "http://zforzz-001-site1.1tempurl.com/mozlla.php?ch=UCsP3Clx2qtH2mNZ6KolVoZQ&p=94<=>0<=>Mozilla/5.0",
+            "group": "News"
+        },
+        {
+            "previewURL": "https://arabic.rt.com/static/blocks/logo/logo-og.png",
+            "user": "RTArabic",
+            "pageURL": "http://rt-arab.secure.footprint.net/1104.m3u8<=>0<=>Mozilla/5.0",
+            "group": "News"
+        },
+        {
+            "previewURL": "http://arabbrains.com/wp-content/uploads/2012/12/sky-news-logo.jpg",
+            "user": "skynewsarabia",
+            "pageURL": "https://stream.skynewsarabia.com/hls/sna_720.m3u8<=>0<=>Mozilla/5.0",
+            "group": "News"
+        },
+        {
+            "previewURL": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/300px-FRANCE_24_logo.svg.png",
+            "user": "France 24",
+            "pageURL": "http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8<=>0<=>Mozilla/5.0",
+            "group": "News"
+        },
+        {
+            "previewURL": "http://www.cnbcarabia.com/img/logo.png",
+            "user": "cnbcarabia",
+            "pageURL": "https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8<=>0<=>Mozilla/5.0",
+            "group": "News"
+        }
+    ]
+}
