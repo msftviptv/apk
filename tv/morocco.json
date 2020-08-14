@@ -1,0 +1,95 @@
+{
+    "hits": [
+        {
+            "previewURL": "https://www.maptvnews.ma/ar/system/files/LOGO%20FINAL%20PNG.png",
+            "user": "MAPTV",
+            "pageURL": "https://www.maptvnews.ma/live/smil:OutStream1.smil/playlist.m3u8<=>0<=>Mozilla/5.0",
+            "group": "Morroco",
+            "adcount": 2
+        },
+        {
+            "previewURL": "https://i.ytimg.com/vi/xlopml2CUY0/hqdefault.jpg",
+            "user": "2M",
+            "pageURL": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/index.m3u8<=>0<=>Mozilla/5.0",
+            "group": "Morroco"
+        },
+        {
+            "previewURL": "https://i.ytimg.com/vi/xlopml2CUY0/hqdefault.jpg",
+            "user": "2M-BKP",
+            "pageURL": "https://bozztv.com/36bay2/gin/giniko_2mmonde_800kb_36bay2/index.m3u8<=>0<=>Mozilla/5.0",
+            "group": "Morroco"
+        },
+        {
+            "previewURL": "https://www.telemaroc.tv/img/logo.png",
+            "user": "Telemaroco",
+            "pageURL": "http://api.new.livestream.com/accounts/27130247/events/live/live.m3u8<=>0<=>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36",
+            "group": "Morroco"
+        },
+        {
+            "previewURL": "https://m.medi1tv.ma/ar/img/logo_new1.png",
+            "user": "Medi1TVArabic*",
+            "pageURL": "http://streaming.medi1tv.com/live/Medi1tvArabia.sdp/manifest.m3u8<=>0<=>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36<=>Referer<=>https://m.medi1tv.ma/ar/live.aspx",
+            "group": "Morroco"
+        },
+        {
+            "previewURL": "https://m.medi1tv.ma/ar/img/logo_new1.png",
+            "user": "Medi1TVmaghreb",
+            "pageURL": "http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/manifest.m3u8<=>0<=>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36<=>Referer<=>https://m.medi1tv.ma/ar/live.aspx",
+            "group": "Morroco"
+        },
+        {
+            "previewURL": "https://www.medi1tv.ma/ar/img/logo.gif",
+            "user": "aloula",
+            "pageURL": "http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8<=>0<=>Mozilla/5.0",
+            "group": "Morroco"
+        },
+        {
+            "previewURL": "http://snrtlive.ma/sites/all/themes/snrtlive/images/alaoula.png",
+            "user": "alaoulalaayoune",
+            "pageURL": "http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8<=>0<=>Mozilla/5.0",
+            "group": "Morroco"
+        },
+        {
+            "previewURL": "http://snrtlive.ma/sites/all/themes/snrtlive/images/laayoune.png",
+            "user": "arriadia",
+            "pageURL": "http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8<=>0<=>Mozilla/5.0",
+            "group": "Morroco"
+        },
+        {
+            "previewURL": "http://snrtlive.ma/sites/all/themes/snrtlive/images/arriyadia.png",
+            "user": "athaqafia4",
+            "pageURL": "http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8<=>0<=>Mozilla/5.0",
+            "group": "Morroco"
+        },
+        {
+            "previewURL": "http://snrtlive.ma/sites/all/themes/snrtlive/images/attakafiya.png",
+            "user": "almaghribia",
+            "pageURL": "http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8<=>0<=>Mozilla/5.0",
+            "group": "Morroco"
+        },
+        {
+            "previewURL": "http://snrtlive.ma/sites/all/themes/snrtlive/images/almaghribia.png",
+            "user": "assadissa",
+            "pageURL": "http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8<=>0<=>Mozilla/5.0",
+            "group": "Morroco"
+        },
+        {
+            "previewURL": "http://snrtlive.ma/sites/all/themes/snrtlive/images/assadissa.png",
+            "user": "tamazighttv8",
+            "pageURL": "http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8<=>0<=>Mozilla/5.0",
+            "group": "Morroco"
+        },
+        {
+            "previewURL": "http://snrtlive.ma/sites/all/themes/snrtlive/images/tamazight.png",
+            "user": "ChadaTV",
+            "pageURL": "https://chadatv.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8<=>0<=>Mozilla/5.0",
+            "group": "Morroco"
+        },
+        {
+            "previewURL": "https://chadatv.com/wp-content/themes/chadatv/images/logo.png",
+            "user": "ChadaTVbkp",
+            "pageURL": "https://edge4.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8<=>0<=>Mozilla/5.0",
+            "group": "Morroco"
+        }
+    ]
+}
