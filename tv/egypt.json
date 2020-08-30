@@ -10,7 +10,7 @@
         {
             "previewURL": "https://www.livenewsnow.com/wp-content/uploads/2015/12/Sada-El-Balad-1.jpg",
             "user": "SADAELBALADHD",
-            "pageURL": "http://orange.cdn.mangomolo.com/eg1/smil:eg1.smil/chunklist_b2000000_t64NzIwcA==.m3u8<=>0<=>Mozilla/5.0",
+            "pageURL": "https://mysat-live.ercdn.net/sadaelbalad/sadaelbalad_576p.m3u8<=>0<=>Mozilla/5.0",
             "group": "EGYPT"
         },
         {
@@ -23,6 +23,12 @@
             "previewURL": "http://mosalsalatramadan.yamomo.com/images/news%20extra%20egypt-v1.jpg",
             "user": "CBCExtra-News",
             "pageURL": "http://zforzz-001-site1.1tempurl.com/mozlla.php?ch=UC65F33K2cXk9hGDbOQYhTOw&p=93<=>0<=>Mozilla/5.0",
+            "group": "EGYPT"
+        },
+        {
+            "previewURL": "https://mashrqnews.com/thumb/830x506/uploads/images/NgRMt.png",
+            "user": "DMC",
+            "pageURL": "https://mysat-live.ercdn.net/dmchd/dmchd_480p.m3u8<=>0<=>Mozilla/5.0",
             "group": "EGYPT"
         },
         {
