@@ -5,7 +5,7 @@
 	{
 		"previewURL": "https://c.top4top.io/p_16885pooy1.png",
 		"user": "Arabic Movies",
-		"pageURL": "http://msftv.atwebpages.com/data/vod/arabic.json",
+		"pageURL": "https://raw.githubusercontent.com/msftviptv/apk/master/vod/arabic.json",
 		"group": "Arabic Movies",
 		"adcount": 0
 		},
@@ -13,14 +13,14 @@
 {
 		"previewURL": "https://c.top4top.io/p_1688m7zv31.png",
 		"user": "English Movies",
-		"pageURL": "http://msftv.atwebpages.com/data/vod/english.json",
+		"pageURL": "https://raw.githubusercontent.com/msftviptv/apk/master/vod/english.json",
 		"group": "English Movies",
 		"adcount": 0
 },
 {
 	"previewURL": "https://g.top4top.io/p_16889yjl11.png",
 		"user": "Turckey Movies",
-		"pageURL": "http://msftv.atwebpages.com/data/vod/turckey.json",
+		"pageURL": "https://raw.githubusercontent.com/msftviptv/apk/master/vod/turckey.json",
 		"group": "Turckey Movies",
 		"adcount": 0
 }
