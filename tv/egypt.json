@@ -13,10 +13,22 @@
             "pageURL": "https://mysat-live.ercdn.net/sadaelbalad/sadaelbalad_576p.m3u8<=>0<=>Mozilla/5.0",
             "group": "EGYPT"
         },
+         {
+            "previewURL": "https://dmc.com.eg/wp-content/themes/dmc/images/dmc-hd.png",
+            "user": "DMC",
+            "pageURL": "https://www.elahmad.com/tv/m3u8/tv3_anywhere.m3u8?id=dmc_tv<=>0<=>Mozilla/5.0",
+            "group": "EGYPT"
+        },
         {
             "previewURL": "https://upload.wikimedia.org/wikipedia/commons/0/06/ON_logo.png",
             "user": "ON E",
             "pageURL": "https://www.elahmad.com/tv/m3u8/tv3_anywhere.m3u8?id=ontv<=>0<=>Mozilla/5.0",
+            "group": "EGYPT"
+        },
+        {
+            "previewURL": "https://i.pinimg.com/474x/a2/91/35/a29135ba88308dfeca28ee185ff67721.jpg",
+            "user": "ON DRAMA",
+            "pageURL": "https://mysat-live.ercdn.net/ondrama/ondrama_576p.m3u8<=>0<=>Mozilla/5.0",
             "group": "EGYPT"
         },
         {
