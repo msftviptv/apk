@@ -40,25 +40,25 @@
 {
 "previewURL": "http://shooftv.org/images/adsport/AD-Sports1.png",
 "user": "ADSport1HD",
-"pageURL": "http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=adsport1<=>0<=>Mozilla/5.0",
+"pageURL": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8<=>0<=>Mozilla/5.0",
 "group": "sport"
 },
 {
 "previewURL": "http://shooftv.org/images/adsport/AD-Sports2.png",
 "user": "ADSport2HD",
-"pageURL": "http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=adsport2<=>0<=>Mozilla/5.0",
+"pageURL": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8<=>0<=>Mozilla/5.0",
 "group": "sport"
 },
 {
 "previewURL": "http://shooftv.org/images/adsport/AD-Sports3.png",
 "user": "ADSport3HD",
-"pageURL": "http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=adsport3<=>0<=>Mozilla/5.0",
+"pageURL": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8<=>0<=>Mozilla/5.0",
 "group": "sport"
 },
 {
 "previewURL": "http://shooftv.org/images/adsport/AD-Sports4.png",
 "user": "ADSport4HD",
-"pageURL": "http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=adsport4<=>0<=>Mozilla/5.0",
+"pageURL": "https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8<=>0<=>Mozilla/5.0",
 "group": "sport"
 },
 {
@@ -76,61 +76,73 @@
 {
 "previewURL": "https://www.apple-wd.com/wp-content/uploads/2011/01/mzi.rgfaorme.175x175-75.png",
 "user": "AlkassHD1",
-"pageURL": "http://zforzz-001-site1.1tempurl.com/sports/alkass1hd.php<=>0<=>Mozilla/5.0",
+"pageURL": "https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1laoGlw/master.m3u8<=>0<=>Mozilla/5.0",
 "group": "sport"
 },
 {
 "previewURL": "https://www.apple-wd.com/wp-content/uploads/2011/01/mzi.rgfaorme.175x175-75.png",
 "user": "Alkass2HD",
-"pageURL": "http://zforzz-001-site1.1tempurl.com/sports/alkass2hd.php<=>0<=>Mozilla/5.0",
+"pageURL": "https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2baIzzy/master.m3u8<=>0<=>Mozilla/5.0",
 "group": "sport"
 },
 {
 "previewURL": "https://www.apple-wd.com/wp-content/uploads/2011/01/mzi.rgfaorme.175x175-75.png",
 "user": "Alkass4",
-"pageURL": "http://zforzz-001-site1.1tempurl.com/sports/alkass4.php<=>0<=>Mozilla/5.0",
+"pageURL": "https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fzjeApo/master.m3u8<=>0<=>Mozilla/5.0",
 "group": "sport"
 },
 {
 "previewURL": "https://www.apple-wd.com/wp-content/uploads/2011/01/mzi.rgfaorme.175x175-75.png",
 "user": "Alkass5",
-"pageURL": "http://zforzz-001-site1.1tempurl.com/sports/alkass5.php<=>0<=>Mozilla/5.0",
-"group": "sport"
-},
-{
-"previewURL": "https://www.apple-wd.com/wp-content/uploads/2011/01/mzi.rgfaorme.175x175-75.png",
-"user": "Alkassonline",
-"pageURL": "http://zforzz-001-site1.1tempurl.com/sports/alkassonline.php<=>0<=>Mozilla/5.0",
+"pageURL": "https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5Zpgdua/master.m3u8<=>0<=>Mozilla/5.0",
 "group": "sport"
 },
 {
 "previewURL": "http://webtvonlive.com/wp-content/uploads/Dubai-Sports-3-webtvonlive-com.jpg",
 "user": "dubaisport1",
-"pageURL": "http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=dubais1<=>0<=>Mozilla/5.0",
+"pageURL": "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8<=>0<=>Mozilla/5.0",
 "group": "sport"
 },
 {
 "previewURL": "http://webtvonlive.com/wp-content/uploads/Dubai-Sports-3-webtvonlive-com.jpg",
 "user": "dubaisport2",
-"pageURL": "http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=dubais2<=>0<=>Mozilla/5.0",
+"pageURL": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8<=>0<=>Mozilla/5.0",
 "group": "sport"
 },
 {
 "previewURL": "http://webtvonlive.com/wp-content/uploads/Dubai-Sports-3-webtvonlive-com.jpg",
 "user": "dubaisport3",
-"pageURL": "http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=dubais3<=>0<=>Mozilla/5.0",
+"pageURL": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8<=>0<=>Mozilla/5.0",
 "group": "sport"
 },
 {
 "previewURL": "https://i.goalzz.com/?i=0safi%2f2018%2fksasport.jpg",
 "user": "KSA-Sport1",
-"pageURL": "http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=ksasport<=>0<=>Mozilla/5.0",
+"pageURL": "https://edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.m3u8<=>0<=>Mozilla/5.0",
 "group": "sport"
 },
 {
 "previewURL": "https://i.goalzz.com/?i=0safi%2f2018%2fksasport.jpg",
 "user": "KSA-Sport2",
-"pageURL": "http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=ksasport2<=>0<=>Mozilla/5.0",
+"pageURL": "https://edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8<=>0<=>Mozilla/5.0",
+"group": "sport"
+},
+{
+"previewURL": "https://www.goalzz.com/images/logo_sport/kuwaitsport.jpg",
+"user": "KTV Sport",
+"pageURL": "https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/playlist.m3u8<=>0<=>Mozilla/5.0",
+"group": "sport"
+},
+{
+"previewURL": "http://part.gov.om/part/images/oman_sport.png",
+"user": "Oman Sport",
+"pageURL": "https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8<=>0<=>Mozilla/5.0",
+"group": "sport"
+},
+{
+"previewURL": "http://part.gov.om/part/images/oman_sport.png",
+"user": "Oman Sport",
+"pageURL": "https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8<=>0<=>Mozilla/5.0",
 "group": "sport"
 }
  ]}
