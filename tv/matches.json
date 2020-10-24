@@ -1,6 +1,5 @@
 {
-    "hits": [
-        {
+    "hits": [{
 "previewURL": "https://www.albayan.ae/polopoly_fs/1.3682731.1571938591!/image/image.jpg",
 "user": "الكلاسيكو",
 "pageURL": "http://31.14.40.104:8081/b1/b1/playlist.m3u8<=>0<=>Mozilla/5.0 Linux; Android 10; SM-A205U AppleWebKit/537.36 KHTML, like Gecko ",
@@ -13,12 +12,11 @@
 "pageURL": "http://31.14.40.104:8081/b1/b1/playlist.m3u8<=>0<=>Mozilla/5.0 Linux; Android 10; SM-A205U AppleWebKit/537.36 KHTML, like Gecko ",
  "group": "matches"
 },  
-        {
+ {
 "previewURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_3c1NNRoNT3DDb5tks26v48G3PCtTyJD2pg&usqp=CAU",
 "user": "ملخص الاهلي vs الوداد",
 "pageURL": "http://cdnvstream.b-cdn.net/UpFiles/2020/10/23/132/170389/0.m3u8<=>0<=>Mozilla/5.0 Linux; Android 10; SM-A205U AppleWebKit/537.36 KHTML, like Gecko ",
  "group": "matches"
-
 },
 {
 "previewURL": "https://b.top4top.io/p_16754xrk21.jpg",
