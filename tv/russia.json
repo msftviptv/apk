@@ -3,26 +3,26 @@
 {
 "previewURL": "https://sport-tv-guide.live/images/stations/a732.png",
 "user": "Match!",
-"pageURL": "https://xyss5.herokuapp.com/https://95-213-172-212.livesports24.online/ooomatch.m3u8<=>1<=>Mozilla/5.0",
+"pageURL": "https://xyss5.herokuapp.com/https://95-213-172-212.livesports24.online/ooomatch.m3u8<=>0<=>Mozilla/5.0",
 "group": "russia",
 "adcount": 2
 },
 {
 "previewURL": "https://sport-tv-guide.live/images/stations/a733.png",
 "user": "Match! Futbol 1",
-"pageURL": "https://xyss5.herokuapp.com/https://95-213-172-213.livesports24.online/ntvmatchfoot1.m3u8<=>1<=>Mozilla/5.0",
+"pageURL": "https://xyss5.herokuapp.com/https://95-213-172-213.livesports24.online/ntvmatchfoot1.m3u8<=>0<=>Mozilla/5.0",
 "group": "russia"
 },
 {
 "previewURL": "https://sport-tv-guide.live/images/stations/a734.png",
 "user": "Match! Futbol 2",
-"pageURL": "https://xyss5.herokuapp.com/https://95-213-172-222.livesports24.online/mfootball2rus.m3u8<=>1<=>Mozilla/5.0",
+"pageURL": "https://xyss5.herokuapp.com/https://95-213-172-222.livesports24.online/mfootball2rus.m3u8<=>0<=>Mozilla/5.0",
 "group": "russia"
 },
 {
 "previewURL": "https://sport-tv-guide.live/images/stations/a735.png",
 "user": "Match! Futbol 3",
-"pageURL": "https://xyss5.herokuapp.com/https://95-213-172-213.livesports24.online/rumatchf3.m3u8<=>1<=>Mozilla/5.0",
+"pageURL": "https://xyss5.herokuapp.com/https://95-213-172-213.livesports24.online/rumatchf3.m3u8<=>0<=>Mozilla/5.0",
 "group": "russia"
 }
 ]
